@@ -625,8 +625,8 @@ function App() {
                     <h2 style={{
                         lineHeight: "80%",
                         color: "green",
-                        fontSize: "70px"
-                    }}>Let's save the <br /> environment with Luxor</h2>
+                        fontSize: "55px"
+                    }}>Let's Save The <br /><br />Environment With Luxor</h2>
                 </div>
                 <div className='home-container'>
                     <div className="homeImg-luxor ">
